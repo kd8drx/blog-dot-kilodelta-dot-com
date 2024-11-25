@@ -13,7 +13,7 @@
       
       <guid>//localhost:1313/about/</guid>
       <description>&lt;figure class=&#34;left&#34; &gt;
-    &lt;img src=&#34;//localhost:1313/images/avatar.webp&#34;  alt=&#34;A picture of Kiley, slightly pixelated and bit-crushed, but still smiling and with her trademark purple hair.&#34;   style=&#34;border-radius: 4px;max-height: 40%;max-width:40%;float:left;margin:5px&#34;  /&gt;
+    &lt;img src=&#34;//localhost:1313/images/avatar.webp&#34;  alt=&#34;A picture of Kiley, slightly pixelated and bit-crushed, but still smiling and with her trademark purple hair.&#34;   style=&#34;border-radius: 8px;max-height: 40%;max-width:40%;float:left;margin:5px&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -23,7 +23,7 @@
 &lt;p&gt;During the day, I&amp;rsquo;m an IT Engineer and MacAdmin with well over a decade of professional experience - and even more &lt;em&gt;if&lt;/em&gt; you consider getting called out of class in 5th grade to fix the school computer lab!&lt;/p&gt;</description>
       <content>
   &lt;figure class=&#34;left&#34; &gt;
-    &lt;img src=&#34;//localhost:1313/images/avatar.webp&#34;  alt=&#34;A picture of Kiley, slightly pixelated and bit-crushed, but still smiling and with her trademark purple hair.&#34;   style=&#34;border-radius: 4px;max-height: 40%;max-width:40%;float:left;margin:5px&#34;  /&gt;
+    &lt;img src=&#34;//localhost:1313/images/avatar.webp&#34;  alt=&#34;A picture of Kiley, slightly pixelated and bit-crushed, but still smiling and with her trademark purple hair.&#34;   style=&#34;border-radius: 8px;max-height: 40%;max-width:40%;float:left;margin:5px&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -34,6 +34,15 @@
 &lt;p&gt;I&amp;rsquo;ve given talks at &lt;a href=&#34;https://youtu.be/oRPiUR2XQ6w&#34;&gt;MacDevOpsYVR 2020&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/watch?v=oRPiUR2XQ6w&#34;&gt;Elastic&amp;rsquo;s 2020 Global All Hands&lt;/a&gt;. You can &lt;a href=&#34;http://kiley.me/kiley-davidson-resume.pdf&#34;&gt;find my current resumé here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Besides my work in tech, I&amp;rsquo;m a &lt;a href=&#34;http://qrz.com/db/KD8DRX&#34;&gt;ham radio operator&lt;/a&gt; and an unrepentant maker. I was a board member for the &lt;a href=&#34;https://www.sfarc.org&#34;&gt;San Francisco Radio Club&lt;/a&gt; for two years (2020 and 2021), and helped co-found the San Francisco Wireless Emergency Mesh (now Bay Area Mesh), which provides high-speed data connectivity during emergencies in the San Francisco area.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://kiley.me/&#34;&gt;Here&amp;rsquo;s a list of all the ways to find me online.&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;whats-with-the-retro-terminal-aesthetic&#34;&gt;What&amp;rsquo;s with the &amp;ldquo;retro&amp;rdquo; terminal aesthetic?&lt;/h2&gt;
+&lt;p&gt;I have a soft spot for technology of the late-80s to early-90s!&lt;/p&gt;
+&lt;p&gt;Nostalgia certainly informs a good deal of that affinity: I have fond memories of using dumb terminals when I went to the library as a kid in the mid-90s, since their catalog system the venerable Dynyx was designed to use them. My dad also happened to work at a local AV technology company that was an early pioneer in video conferencing, and often brought home old bits of tech they didn&amp;rsquo;t need for me to dissect and play with. I participated in my first remote meeting &lt;em&gt;when I was six&lt;/em&gt;, long before Zoom and Google Meet existed!&lt;/p&gt;
+&lt;p&gt;Of course, now I have a Hewlet-Packard 700/96 dumb terminal on my workbench, amber phosphor and all. It&amp;rsquo;s no DEC VT220 like my library had, but it does emulate one rather well. Surprisingly, it came in the original box with all the packaging and manuals: it&amp;rsquo;s first home was a flower shop in Akron, OH.&lt;/p&gt;
+
+&lt;img src=&#34;//localhost:1313/images/princess-terminal.webp&#34;  alt=&#34;An HP 700/96 terminal with it&amp;#39;s keyboard, this webpage displayed in text mode on an amber phosphor screen. The case of the terminal&amp;#39;s CRT display sports a Super Crown and Bowsette horns, which were not included in the original package.&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;    /&gt;
+
+
 </content>
     </item>
     
