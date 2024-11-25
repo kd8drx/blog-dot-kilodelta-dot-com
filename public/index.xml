@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>./kilodelta-blog</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on ./kilodelta-blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hi, I&#39;m Kiley! 🏳️‍⚧️🏳️‍🌈</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;figure class=&#34;left&#34; &gt;
+    &lt;img src=&#34;//localhost:1313/images/avatar.webp&#34;  alt=&#34;A picture of Kiley, slightly pixelated and bit-crushed, but still smiling and with her trademark purple hair.&#34;   style=&#34;border-radius: 4px;max-height: 40%;max-width:40%;float:left;margin:5px&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;If hobbies were cats, I&amp;rsquo;d be a crazy cat lady. Alas, I merely have &lt;a href=&#34;http://instagram.com/themooncats&#34;&gt;two cats&lt;/a&gt;, a &lt;a href=&#34;https://www.instagram.com/gizmogadgetdog&#34;&gt;dog&lt;/a&gt;, and a &lt;a href=&#34;https://www.threads.net/@meggiesetgo&#34;&gt;wife&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m currently based in Hollywood, CA; but before that spent several years in San Francisco and Seattle. The Pacific Northwest, in particular, &lt;a href=&#34;https://www.youtube.com/watch?v=mc7jTzgrWBI&#34;&gt;will always own a chunk of my soul&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;During the day, I&amp;rsquo;m an IT Engineer and MacAdmin with well over a decade of professional experience - and even more &lt;em&gt;if&lt;/em&gt; you consider getting called out of class in 5th grade to fix the school computer lab!&lt;/p&gt;</description>
+      <content>
+  &lt;figure class=&#34;left&#34; &gt;
+    &lt;img src=&#34;//localhost:1313/images/avatar.webp&#34;  alt=&#34;A picture of Kiley, slightly pixelated and bit-crushed, but still smiling and with her trademark purple hair.&#34;   style=&#34;border-radius: 4px;max-height: 40%;max-width:40%;float:left;margin:5px&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;If hobbies were cats, I&amp;rsquo;d be a crazy cat lady. Alas, I merely have &lt;a href=&#34;http://instagram.com/themooncats&#34;&gt;two cats&lt;/a&gt;, a &lt;a href=&#34;https://www.instagram.com/gizmogadgetdog&#34;&gt;dog&lt;/a&gt;, and a &lt;a href=&#34;https://www.threads.net/@meggiesetgo&#34;&gt;wife&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m currently based in Hollywood, CA; but before that spent several years in San Francisco and Seattle. The Pacific Northwest, in particular, &lt;a href=&#34;https://www.youtube.com/watch?v=mc7jTzgrWBI&#34;&gt;will always own a chunk of my soul&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;During the day, I&amp;rsquo;m an IT Engineer and MacAdmin with well over a decade of professional experience - and even more &lt;em&gt;if&lt;/em&gt; you consider getting called out of class in 5th grade to fix the school computer lab!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve given talks at &lt;a href=&#34;https://youtu.be/oRPiUR2XQ6w&#34;&gt;MacDevOpsYVR 2020&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/watch?v=oRPiUR2XQ6w&#34;&gt;Elastic&amp;rsquo;s 2020 Global All Hands&lt;/a&gt;. You can &lt;a href=&#34;http://kiley.me/kiley-davidson-resume.pdf&#34;&gt;find my current resumé here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Besides my work in tech, I&amp;rsquo;m a &lt;a href=&#34;http://qrz.com/db/KD8DRX&#34;&gt;ham radio operator&lt;/a&gt; and an unrepentant maker. I was a board member for the &lt;a href=&#34;https://www.sfarc.org&#34;&gt;San Francisco Radio Club&lt;/a&gt; for two years (2020 and 2021), and helped co-found the San Francisco Wireless Emergency Mesh (now Bay Area Mesh), which provides high-speed data connectivity during emergencies in the San Francisco area.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kiley.me/&#34;&gt;Here&amp;rsquo;s a list of all the ways to find me online.&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
