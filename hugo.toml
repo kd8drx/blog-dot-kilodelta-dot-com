@@ -30,6 +30,8 @@ pagination.pagerSize = 5
   # set post to show the last updated by default
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
   showLastUpdated = false
+  
+  enableGitInfo = true
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   updatedDatePrefix = "Last Updated:"
@@ -60,7 +62,7 @@ pagination.pagerSize = 5
 
     [languages.en.params]
       subtitle = "The thoughts and technical projects of one Kiley Davidson..."
-      owner = ""
+      owner = "Kiley Davidson"
       keywords = ""
       copyright = "© 2024 Kiley Davidson."
       menuMore = "Show more"
@@ -74,7 +76,7 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "~/.kilodelta-blog"
         logoHomeLink = "/"
 
       [languages.en.menu]
